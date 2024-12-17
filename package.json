@@ -1,0 +1,35 @@
+{
+  "name": "uxtrack-touch-distance",
+  "version": "0.0.0",
+  "description": "Touch and pointer movement distance tracking library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lbo728/touch-distance-tracker.git"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/cjs/index.cjs"
+    }
+  },
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build:esm": "tsc",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build": "npm run build:esm && npm run build:cjs",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "touch",
+    "tracking",
+    "distance",
+    "pointer"
+  ],
+  "author": "byungsker",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

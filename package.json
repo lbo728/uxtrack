@@ -4,7 +4,7 @@
   "description": "Touch and pointer movement distance tracking library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbo728/touch-distance-tracker.git"
+    "url": "https://github.com/lbo728/uxtrack.git"
   },
   "exports": {
     ".": {

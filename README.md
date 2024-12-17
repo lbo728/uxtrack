@@ -2,18 +2,18 @@
 
 <img width="1200" alt="TouchDistanceTracker Thumb" src="https://github.com/user-attachments/assets/c107fabe-6e7f-4373-a6b1-b3da04b17a9d" />
 
-![Bundle Size](https://img.shields.io/bundlephobia/minzip/touch-distance-tracker?cache-bust&color=black)![Version](https://img.shields.io/npm/v/touch-distance-tracker?cache-bust&color=black)![Downloads](https://img.shields.io/npm/dm/touch-distance-tracker?cache-bust&color=black)
+![Bundle Size](https://img.shields.io/bundlephobia/minzip/uxtrack-touch-distance?cache-bust&color=black)![Version](https://img.shields.io/npm/v/uxtrack-touch-distance?cache-bust&color=black)![Downloads](https://img.shields.io/npm/dm/uxtrack-touch-distance?cache-bust&color=black)
 
 ## Overview
 
-`TouchDistanceTracker` is a TypeScript library for tracking and measuring touch/pointer movement distances across different modes.
+`TouchDistanceTracker` is a TypeScript library for `tracking and measuring touch/pointer movement distances` across different modes.
 
 <br>
 
 ## Installation
 
 ```bash
-npm install touch-distance-tracker
+npm i uxtrack-touch-distance
 ```
 
 <br>

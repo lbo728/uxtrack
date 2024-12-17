@@ -1,6 +1,6 @@
 {
   "name": "uxtrack-touch-distance",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Touch and pointer movement distance tracking library",
   "repository": {
     "type": "git",
